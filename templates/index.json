@@ -1,0 +1,607 @@
+{
+  "sections": {
+    "f0b41bba-2e54-4145-ac4d-f7092a13ed5d": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_YFJCVY": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP SUMMER HERE",
+            "link": "shopify:\/\/collections\/summer-collection",
+            "button_style_secondary": false,
+            "box_align": "top-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_VRBKd8": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_YU3Uk6": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP DO GOOD COLLECTION",
+            "link": "shopify:\/\/collections\/do-good-collection",
+            "button_style_secondary": false,
+            "box_align": "top-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_6TTpYN": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP SIGNATURE COLLECTION",
+            "link": "shopify:\/\/collections\/signature-collection",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_YFJCVY",
+        "slide_VRBKd8",
+        "slide_YU3Uk6",
+        "slide_6TTpYN"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "8bd559b8-2d97-49fe-867c-fbcdf4ec7166": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18998540763437__8bd559b8-2d97-49fe-867c-fbcdf4ec7166-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Candles that elevate your day and help others.....",
+            "heading_size": "h1"
+          }
+        },
+        "template--18998540763437__8bd559b8-2d97-49fe-867c-fbcdf4ec7166-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>do good adventures<\/em> is a give back company that donates $2 from the sale of each regularly priced retail candle.<\/p><p>We donate to organizations that focus on mental heath awareness, suicide prevention, and building self-esteem in children & teens.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18998540763437__8bd559b8-2d97-49fe-867c-fbcdf4ec7166-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "click here to  learn more",
+            "button_link": "shopify:\/\/pages\/did-you-know",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18998540763437__8bd559b8-2d97-49fe-867c-fbcdf4ec7166-heading-1",
+        "template--18998540763437__8bd559b8-2d97-49fe-867c-fbcdf4ec7166-text-1",
+        "template--18998540763437__8bd559b8-2d97-49fe-867c-fbcdf4ec7166-button-1"
+      ],
+      "settings": {
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4020c8a8-76cc-403a-b257-cda7ce2093f9": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18998540763437__4020c8a8-76cc-403a-b257-cda7ce2093f9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "summer collection",
+            "heading_size": "h1"
+          }
+        },
+        "template--18998540763437__4020c8a8-76cc-403a-b257-cda7ce2093f9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Elevate your summer and enhance memories of favorite summer activities: soaking up the summer sun, afternoons on the beach, days boating on the lake, tropical drinks, evenings on the patio, and windows open with the smell of clean, fresh air. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18998540763437__4020c8a8-76cc-403a-b257-cda7ce2093f9-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP SUMMER",
+            "button_link": "shopify:\/\/collections\/summer-collection",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18998540763437__4020c8a8-76cc-403a-b257-cda7ce2093f9-heading-1",
+        "template--18998540763437__4020c8a8-76cc-403a-b257-cda7ce2093f9-text-1",
+        "template--18998540763437__4020c8a8-76cc-403a-b257-cda7ce2093f9-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_wqjRf9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "more summer collection",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "snack",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_TXVzaW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LL3wLV": {
+          "type": "heading",
+          "settings": {
+            "heading": "the exclusive glow: may",
+            "heading_size": "h1"
+          }
+        },
+        "text_xggX8g": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong> Unwind with the warm glow of santorini sunset...<\/strong><\/em><\/p><p>Our May exclusive pour, limited release candle: <em>santorini sunset<\/em>.  Curated for the season.<\/p><p>Packaged in a white luxe box.  Monthly subscription available.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_NUGMVd": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP SANTORINI SUNSET",
+            "button_link": "shopify:\/\/products\/the-exclusive-glow-may-santorini-sunset",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LL3wLV",
+        "text_xggX8g",
+        "button_NUGMVd"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a759e6b9-7182-4885-85f2-0f4f47b80637": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18998540763437__a759e6b9-7182-4885-85f2-0f4f47b80637-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "do good collection",
+            "heading_size": "h1"
+          }
+        },
+        "template--18998540763437__a759e6b9-7182-4885-85f2-0f4f47b80637-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Four scents.  Four scent categories.  Four positive messages.  One amazing collection.  <\/p><p>This is one of our first collections and we are so happy to bring it back - new & improved.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18998540763437__a759e6b9-7182-4885-85f2-0f4f47b80637-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP DO GOOD HERE",
+            "button_link": "shopify:\/\/collections\/do-good-collection",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18998540763437__a759e6b9-7182-4885-85f2-0f4f47b80637-heading-1",
+        "template--18998540763437__a759e6b9-7182-4885-85f2-0f4f47b80637-text-1",
+        "template--18998540763437__a759e6b9-7182-4885-85f2-0f4f47b80637-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "804ecbba-3f92-4aa5-8ef9-297aa9a92931": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "More do good collection",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "fresh-meat",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 36
+      }
+    },
+    "506fdc3f-9c96-4a4a-a318-0edb1a68a68b": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "06d70733-6068-481e-9a8a-7bbf2b60b615": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17841892426029__06d70733-6068-481e-9a8a-7bbf2b60b615-16753661716265e98b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Did you know?",
+            "heading_size": "h1"
+          }
+        },
+        "f4be2735-f6e2-41f7-b4ae-d57a60d867b0": {
+          "type": "caption",
+          "settings": {
+            "caption": "PORTION OF PROFITS GO TO \"DOING GOOD\"",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--17841892426029__06d70733-6068-481e-9a8a-7bbf2b60b615-16753661716265e98b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>do good aspires to be more than a candle company. We want to make a difference. Our motto is that we are inspired to help others think good, feel good and do good. As a former counselor, this is a large part of our values and our \"why\". do good adventures donates a portion of profits to organizations that focus on mental health, suicide prevention, and building self-esteem in children and teens.<\/p><p><\/p><p><strong>Recent Donations: <\/strong><\/p><ul><li>BIO Girls<\/li><li>Children's Advocacy Center<\/li><li>Fargo Vet Center<\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "template--17841892426029__06d70733-6068-481e-9a8a-7bbf2b60b615-16753661716265e98b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "https:\/\/dogood-adventures.com\/pages\/about",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17841892426029__06d70733-6068-481e-9a8a-7bbf2b60b615-16753661716265e98b-0",
+        "f4be2735-f6e2-41f7-b4ae-d57a60d867b0",
+        "template--17841892426029__06d70733-6068-481e-9a8a-7bbf2b60b615-16753661716265e98b-1",
+        "template--17841892426029__06d70733-6068-481e-9a8a-7bbf2b60b615-16753661716265e98b-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "3e10cfab-3cb6-471c-8a56-c04da95bf348": {
+      "type": "collection-list",
+      "blocks": {
+        "9aad9182-63e3-43aa-863e-06aee78c1407": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "limited-edition"
+          }
+        },
+        "template--17841892426029__3e10cfab-3cb6-471c-8a56-c04da95bf348-1676669024f61bc790-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "best-selling-collection"
+          }
+        },
+        "template--17841892426029__3e10cfab-3cb6-471c-8a56-c04da95bf348-1676669024f61bc790-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "experience-collection"
+          }
+        },
+        "template--17841892426029__3e10cfab-3cb6-471c-8a56-c04da95bf348-1676669024f61bc790-2": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "gift-giving"
+          }
+        },
+        "3c7591d0-d54f-47dc-a32d-f17ced3d82ef": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "do-good-collection"
+          }
+        }
+      },
+      "block_order": [
+        "9aad9182-63e3-43aa-863e-06aee78c1407",
+        "template--17841892426029__3e10cfab-3cb6-471c-8a56-c04da95bf348-1676669024f61bc790-1",
+        "template--17841892426029__3e10cfab-3cb6-471c-8a56-c04da95bf348-1676669024f61bc790-0",
+        "template--17841892426029__3e10cfab-3cb6-471c-8a56-c04da95bf348-1676669024f61bc790-2",
+        "3c7591d0-d54f-47dc-a32d-f17ced3d82ef"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "48d3d28d-8bb2-4cc5-9123-5c80546b9e61": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17841892426029__48d3d28d-8bb2-4cc5-9123-5c80546b9e61-1675366393ae74cc4b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "@DOGOOD_ADVENTURES",
+            "button_link": "https:\/\/www.instagram.com\/dogood_adventures\/",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17841892426029__48d3d28d-8bb2-4cc5-9123-5c80546b9e61-1675366393ae74cc4b-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 0
+      }
+    },
+    "276a5458-e856-4367-a36d-777d89653d49": {
+      "type": "image-with-text",
+      "blocks": {
+        "75b0b8d9-0a43-42bb-81d2-660aa8d01520": {
+          "type": "caption",
+          "settings": {
+            "caption": "MEET DEBBI & ABBY",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--17841892426029__276a5458-e856-4367-a36d-777d89653d49-16752915753f976a21-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--17841892426029__276a5458-e856-4367-a36d-777d89653d49-16752915753f976a21-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We're the mother-daughter duo behind <em>do good adventures<\/em>, Debbi & Abby.  After making candles for my daughter's wedding, I eventually realized my creative outlet could be a business.  My work in family and school counseling inspired me to carefully consider the message of the business.  <strong>That's why <\/strong><em><strong>do good adventures<\/strong><\/em><strong> aims to empower you to find the good in yourself so you can <\/strong><em><strong>do good<\/strong><\/em><strong> in the world. <\/strong><\/p><p>Abby decided to help others by becoming a music teacher.  She shared her creativity and passion for learning with students in the classroom.  With summers and holidays off, she helped me with the business in our studio.  From there, her role naturally evolved into an intergral part of the business.  Abby has been with <em>do good<\/em> full time since 2022.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17841892426029__276a5458-e856-4367-a36d-777d89653d49-16752915753f976a21-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "shopify:\/\/pages\/about",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "75b0b8d9-0a43-42bb-81d2-660aa8d01520",
+        "template--17841892426029__276a5458-e856-4367-a36d-777d89653d49-16752915753f976a21-0",
+        "template--17841892426029__276a5458-e856-4367-a36d-777d89653d49-16752915753f976a21-1",
+        "template--17841892426029__276a5458-e856-4367-a36d-777d89653d49-16752915753f976a21-2"
+      ],
+      "settings": {
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "1676714627e0d515e0": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "a9a27eb6-b845-4d33-b5c5-125e864d28a3": {
+      "type": "newsletter",
+      "blocks": {
+        "template--17841892426029__a9a27eb6-b845-4d33-b5c5-125e864d28a3-1675366273de91f196-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We'd love to connect!",
+            "heading_size": "h1"
+          }
+        },
+        "template--17841892426029__a9a27eb6-b845-4d33-b5c5-125e864d28a3-1675366273de91f196-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>I would love to keep you up to date about products, events and promotions. I'd also love to share motivations, inspirations and celebrations. Sign up for our email list today so you don't miss out!<\/p>"
+          }
+        },
+        "template--17841892426029__a9a27eb6-b845-4d33-b5c5-125e864d28a3-1675366273de91f196-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17841892426029__a9a27eb6-b845-4d33-b5c5-125e864d28a3-1675366273de91f196-0",
+        "template--17841892426029__a9a27eb6-b845-4d33-b5c5-125e864d28a3-1675366273de91f196-1",
+        "template--17841892426029__a9a27eb6-b845-4d33-b5c5-125e864d28a3-1675366273de91f196-2"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "16927919976c841585": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "f0b41bba-2e54-4145-ac4d-f7092a13ed5d",
+    "8bd559b8-2d97-49fe-867c-fbcdf4ec7166",
+    "4020c8a8-76cc-403a-b257-cda7ce2093f9",
+    "featured_collection_wqjRf9",
+    "image_with_text_TXVzaW",
+    "a759e6b9-7182-4885-85f2-0f4f47b80637",
+    "804ecbba-3f92-4aa5-8ef9-297aa9a92931",
+    "506fdc3f-9c96-4a4a-a318-0edb1a68a68b",
+    "06d70733-6068-481e-9a8a-7bbf2b60b615",
+    "3e10cfab-3cb6-471c-8a56-c04da95bf348",
+    "48d3d28d-8bb2-4cc5-9123-5c80546b9e61",
+    "276a5458-e856-4367-a36d-777d89653d49",
+    "1676714627e0d515e0",
+    "a9a27eb6-b845-4d33-b5c5-125e864d28a3",
+    "16927919976c841585"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "1700193753365ce58a": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "rich_text_UkjbUw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Tn7A8q": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE EXCLUSIVE GLOW",
+            "heading_size": "h1"
+          }
+        },
+        "text_LeVYGH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>On the first of each month, we release a limited pour of an exclusive scent.  Each scent will be curated based on the season and is not a part of our regular candle inventory.  <\/p><p>Each candle is packaged in a luxe white box and includes matches. Elegant and perfect for elevating your day or gifting to elevate the day of someone special. <\/p><p>For May, <em><strong>santorini sunset<\/strong><\/em> is a warm, earthy candle scent with notes of olive leaf, lemon, sea salt, and rose.  <\/p><p><em><strong>Capture the romance of a Santorini sunset.<\/strong><\/em><\/p><p><em>Note:  The Exclusive Glow Series is now available with an option for a one-time purchase or monthly subscription.<\/em><\/p>"
+          }
+        },
+        "button_qeg9yT": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP EXCLUSIVE GLOW",
+            "button_link": "shopify:\/\/products\/the-exclusive-glow-may-santorini-sunset",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Tn7A8q",
+        "text_LeVYGH",
+        "button_qeg9yT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_product_FiCC3G": {
+      "type": "featured-product",
+      "blocks": {
+        "text_TFRQkQ": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_yY6B4g": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_CLkJyy": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_r74D9r": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_VcXeL3": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_9UTkKC": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share_camzJe": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_TFRQkQ",
+        "title_yY6B4g",
+        "price_CLkJyy",
+        "variant_picker_r74D9r",
+        "quantity_selector_VcXeL3",
+        "buy_buttons_9UTkKC",
+        "share_camzJe"
+      ],
+      "settings": {
+        "product": "the-exclusive-glow-may-santorini-sunset",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_AyrqVJ": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"klaviyo-form-RKBbza\"><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1700193753365ce58a",
+    "rich_text_UkjbUw",
+    "featured_product_FiCC3G",
+    "custom_liquid_AyrqVJ"
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "4bdfba1c-076b-47b0-a1ab-c70f8c84ba68": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "More Use, More Joy",
+            "heading_size": "h1"
+          }
+        },
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-1": {
+          "type": "text",
+          "settings": {
+            "text": "In our ongoing efforts to support sustainability and actively reduce waste, do good adventures has created a candle refill program. Simply choose any scent from any of our collections for your refill. You can even pick a new scent each time!",
+            "text_style": "body"
+          }
+        },
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-0",
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-1",
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Product_DoGood_005.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "5c56184a-54da-4212-a3cb-ec50622825f9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17854039195949__5c56184a-54da-4212-a3cb-ec50622825f9-16753692610ae6d87c-0": {
+          "type": "column",
+          "settings": {
+            "title": "Step 1",
+            "text": "<p>Clean your vessel.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17854039195949__5c56184a-54da-4212-a3cb-ec50622825f9-16753692610ae6d87c-1": {
+          "type": "column",
+          "settings": {
+            "title": "Step 2",
+            "text": "<p>Fill out our refill form (at the bottom of the page) and ship your vessel to us - only apples to limited vessels at this time (local customers - please see steps below).<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17854039195949__5c56184a-54da-4212-a3cb-ec50622825f9-16753692610ae6d87c-2": {
+          "type": "column",
+          "settings": {
+            "title": "Step 3",
+            "text": "<p>Once we receive your form, an invoice will be sent via email that needs to be paid before we can start the refill process<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b46f9394-88df-403d-9c08-6c7c71220c9e": {
+          "type": "column",
+          "settings": {
+            "title": "Step 4",
+            "text": "<p>Once we receive your form, an invoice will be sent via email that needs to be paid before we can start the refill process<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17854039195949__5c56184a-54da-4212-a3cb-ec50622825f9-16753692610ae6d87c-0",
+        "template--17854039195949__5c56184a-54da-4212-a3cb-ec50622825f9-16753692610ae6d87c-1",
+        "template--17854039195949__5c56184a-54da-4212-a3cb-ec50622825f9-16753692610ae6d87c-2",
+        "b46f9394-88df-403d-9c08-6c7c71220c9e"
+      ],
+      "settings": {
+        "title": "LETS GET INTO THE DETAILS",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 76,
+        "padding_bottom": 76
+      }
+    },
+    "12253259-fd9c-407b-86f0-1a99e3ec0b92": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17854039195949__12253259-fd9c-407b-86f0-1a99e3ec0b92-1675369225ba8f0f5c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--17854039195949__12253259-fd9c-407b-86f0-1a99e3ec0b92-1675369225ba8f0f5c-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--17854039195949__12253259-fd9c-407b-86f0-1a99e3ec0b92-1675369225ba8f0f5c-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17854039195949__12253259-fd9c-407b-86f0-1a99e3ec0b92-1675369225ba8f0f5c-0",
+        "template--17854039195949__12253259-fd9c-407b-86f0-1a99e3ec0b92-1675369225ba8f0f5c-1",
+        "template--17854039195949__12253259-fd9c-407b-86f0-1a99e3ec0b92-1675369225ba8f0f5c-2"
+      ],
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/Product_DoGood_065.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "55f2aaec-a6d7-4960-9e78-8e8045a70fb1": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--17854039195949__55f2aaec-a6d7-4960-9e78-8e8045a70fb1-1675369343b1657c51-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Who can get a refill? ",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17854039195949__55f2aaec-a6d7-4960-9e78-8e8045a70fb1-1675369343b1657c51-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the cost?",
+            "icon": "check_mark",
+            "row_content": "<p>Refill cost: $2 per ounce ($10 minimum) + shipping. An additional $5 charge will be added if the vessel does not meet our cleaning standards (please see examples below). <\/p>",
+            "page": ""
+          }
+        },
+        "template--17854039195949__55f2aaec-a6d7-4960-9e78-8e8045a70fb1-1675369343b1657c51-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does this work?",
+            "icon": "check_mark",
+            "row_content": "<p>Once you have filled out the refill form and have shipped us your vessel, we will send you an invoice that will include the price of the refill and shipping cost. The invoice will need to be paid before we can start the refill process. <\/p>",
+            "page": ""
+          }
+        },
+        "template--17854039195949__55f2aaec-a6d7-4960-9e78-8e8045a70fb1-1675369343b1657c51-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is shipping included?",
+            "icon": "check_mark",
+            "row_content": "<p>You are responsible for getting your vessel to us as well as the cost of shipping back to you.<\/p>",
+            "page": ""
+          }
+        },
+        "3bdf93d2-56a4-4bba-9096-2da34a7b7ca7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where do I ship my vessel?",
+            "icon": "check_mark",
+            "row_content": "<p>You can ship your vessel to:<\/p><p>do good <\/p><p>5256 50th Avenue South, Suite A, Fargo, ND. 58104<\/p>",
+            "page": ""
+          }
+        },
+        "3b84a158-42b7-40f7-86e7-35d0e738e6b6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What do I do if I am local?",
+            "icon": "check_mark",
+            "row_content": "<p>If you are local, you can stop in by studio to drop off your vessel and fill out a form there. Please see our website home page for current hours or email us at hello@dogood-adventures.com to schedule a time for drop off. <\/p>",
+            "page": ""
+          }
+        },
+        "7b5b05d3-aea4-47fc-8e91-922f34e81775": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What do I do if my vessel breaks en route?",
+            "icon": "check_mark",
+            "row_content": "<p>Shipping to us: We are not responsible for broken vessels. These are limited vessels and cannot be replaced. Shipping back: We are not responsible for broken vessels and cannot replace them. We will send you a refund for the refill once proof of broken vessel has been sent. <\/p>",
+            "page": ""
+          }
+        },
+        "9a02d771-73bd-430c-aa9a-9f049db02ea5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do discounts apply?",
+            "icon": "check_mark",
+            "row_content": "<p>We do not accept discounts on refills at the moment (including subscription box member discount).<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17854039195949__55f2aaec-a6d7-4960-9e78-8e8045a70fb1-1675369343b1657c51-0",
+        "template--17854039195949__55f2aaec-a6d7-4960-9e78-8e8045a70fb1-1675369343b1657c51-1",
+        "template--17854039195949__55f2aaec-a6d7-4960-9e78-8e8045a70fb1-1675369343b1657c51-2",
+        "template--17854039195949__55f2aaec-a6d7-4960-9e78-8e8045a70fb1-1675369343b1657c51-3",
+        "3bdf93d2-56a4-4bba-9096-2da34a7b7ca7",
+        "3b84a158-42b7-40f7-86e7-35d0e738e6b6",
+        "7b5b05d3-aea4-47fc-8e91-922f34e81775",
+        "9a02d771-73bd-430c-aa9a-9f049db02ea5"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0bcc3758-240c-4f6b-ae12-45ab586008e3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17854039195949__0bcc3758-240c-4f6b-ae12-45ab586008e3-1675369080ef7413f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What should my vessel look like?",
+            "heading_size": "h1"
+          }
+        },
+        "template--17854039195949__0bcc3758-240c-4f6b-ae12-45ab586008e3-1675369080ef7413f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We ask that your vessel be completely cleaned out when you send it to us for a refill. That means any additional wax should be removed, along with the wick at the bottom. We will charge an additional $5 for any cleaning that needs to be done.<\/p><p><\/p><p>How Can I Clean My Vessel?<\/p><p>The best way to clean out your vessel is simply by pouring boiling water (even hot water will work). Wait for the water to cool, the wax to harden and float to the top. You will then be able to remove the wax. Remove the wicks at the bottom of the vessel (you can do this by using spoon to lift up the wick). Use soap and water to finish cleaning out the vessel. <\/p><p><\/p><p><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17854039195949__0bcc3758-240c-4f6b-ae12-45ab586008e3-1675369080ef7413f6-0",
+        "template--17854039195949__0bcc3758-240c-4f6b-ae12-45ab586008e3-1675369080ef7413f6-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/clean_20vessel.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "ec1a544d-9711-4f44-9301-c206d2d1b6b3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17854039195949__ec1a544d-9711-4f44-9301-c206d2d1b6b3-1675369451f7b641e7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Check this out! ",
+            "heading_size": "h0"
+          }
+        },
+        "template--17854039195949__ec1a544d-9711-4f44-9301-c206d2d1b6b3-1675369451f7b641e7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Check out our instagram page for additional information on our refill program. On our highlight reel, we share all things regarding cleaning, how our program works and how you can reuse your vessels in your home. If the refill program is not for you, we also have information on how you can donate your vessel to different organizations. Click the icon below to our instagram page.<\/p>"
+          }
+        },
+        "template--17854039195949__ec1a544d-9711-4f44-9301-c206d2d1b6b3-1675369451f7b641e7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "VISIT US ON INSTAGRAM",
+            "button_link": "https:\/\/instagram.com\/dogood_adventures?igshid=MWI4MTIyMDE=",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17854039195949__ec1a544d-9711-4f44-9301-c206d2d1b6b3-1675369451f7b641e7-0",
+        "template--17854039195949__ec1a544d-9711-4f44-9301-c206d2d1b6b3-1675369451f7b641e7-1",
+        "template--17854039195949__ec1a544d-9711-4f44-9301-c206d2d1b6b3-1675369451f7b641e7-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "84e715d9-bb43-4c78-a365-c210d71088ff": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17854039195949__84e715d9-bb43-4c78-a365-c210d71088ff-1675369080ef7413f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get Started",
+            "heading_size": "h1"
+          }
+        },
+        "template--17854039195949__84e715d9-bb43-4c78-a365-c210d71088ff-1675369080ef7413f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I'm ready to start the refill process! <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17854039195949__84e715d9-bb43-4c78-a365-c210d71088ff-1675369080ef7413f6-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "START HERE",
+            "button_link": "https:\/\/forms.gle\/sKB5GJMN8vpvEVAw9"
+          }
+        }
+      },
+      "block_order": [
+        "template--17854039195949__84e715d9-bb43-4c78-a365-c210d71088ff-1675369080ef7413f6-0",
+        "template--17854039195949__84e715d9-bb43-4c78-a365-c210d71088ff-1675369080ef7413f6-1",
+        "template--17854039195949__84e715d9-bb43-4c78-a365-c210d71088ff-1675369080ef7413f6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Lifestyle_DoGood_068.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4bdfba1c-076b-47b0-a1ab-c70f8c84ba68",
+    "5c56184a-54da-4212-a3cb-ec50622825f9",
+    "12253259-fd9c-407b-86f0-1a99e3ec0b92",
+    "55f2aaec-a6d7-4960-9e78-8e8045a70fb1",
+    "0bcc3758-240c-4f6b-ae12-45ab586008e3",
+    "ec1a544d-9711-4f44-9301-c206d2d1b6b3",
+    "84e715d9-bb43-4c78-a365-c210d71088ff"
+  ]
+}

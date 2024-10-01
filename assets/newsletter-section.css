@@ -1,0 +1,201 @@
+/* Start SH Update */
+.newsletter .input-group .btn { 
+  text-transform: uppercase;
+  letter-spacing:2px;
+  font-size:11px;
+  font-family: acumin-pro-wide, sans-serif;
+}
+@media only screen and (min-width: 601px) {
+.newsletter .input-group {
+  position: relative;
+  display: table;
+  margin-bottom:20px;
+  border-collapse: separate;
+  margin: 0 auto;
+  width: 1100px;
+}
+
+.newsletter input {
+  position: relative;
+  margin: 0 auto; 
+  width: 300px; 
+  margin-right:5px;
+}
+.newsletter {
+  margin: 0 auto;  
+  padding: 0px 10%;
+}
+
+
+input.input-full, textarea.input-full, select.input-full { 
+  font-family: 'acumin-pro-semi-condensed';
+}
+
+.newsletter .input-group .btn,.newsletter .input-group .btn--secondary {
+    height: 37px;
+    /* background: #B2A294; */
+    margin-bottom: -15px !important;
+    margin: 0 auto;
+    margin-top:20px;
+    letter-spacing: 2px;
+    font-family: 'acumin-pro-semi-condensed';
+    text-transform: uppercase;
+    border-radius: 0px;
+    width: 250px;
+}
+
+
+.newsletter h1 {
+  margin-top:-15px;
+}
+
+.footer li {
+  font-size:13px;
+}
+.nav-bar {
+    display: none;
+}
+
+.newsletter p {
+  text-align:center; 
+  padding: 0px 80px;
+}
+.charity {
+  width: 70%;
+  margin-left:20px;
+}
+.page_wrapper {
+  width: 80%; 
+  margin: 0 auto; 
+  padding: 100px 0px;
+}
+  
+  
+}
+@media only screen and (max-width: 600px) {
+.newsletter .input-group {
+    position: relative;
+    display: table;
+    margin-bottom:20px;
+    border-collapse: separate;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.newsletter input {
+    position: relative;
+    margin-bottom:5px;
+    margin: 0 auto; 
+    width: 100%; 
+    margin-right:5px;
+}
+.newsletter {
+  /* background:#B2A294;  */
+  margin: 0 auto;  
+  padding: 0px 10%;
+}
+
+
+input.input-full, textarea.input-full, select.input-full { 
+  font-family: 'acumin-pro-semi-condensed';
+}
+
+.newsletter .input-group .btn,.newsletter .input-group .btn--secondary {
+  height: 37px;
+  /* background: #B2A294; */
+  margin-bottom: -15px !important;
+  margin: 0 auto;
+  margin-top:20px;
+  letter-spacing: 2px;
+  font-family: 'acumin-pro-semi-condensed';
+  text-transform: uppercase;
+  border-radius: 0px;
+  width: 250px;
+}
+
+
+.newsletter h1 {
+  margin-top:-15px;
+}
+
+.charity {
+  width: 100%;
+  margin-left:0px;
+}
+.didyouknow img {
+  padding-top:20px;
+}
+.newsletter input {
+  border: 1px solid #000000;
+  width: 300px;
+  font-family: 'acumin-pro-semi-condensed';
+  padding: 8px 10px;
+  margin-left: 2% !important;
+  margin: 0 auto;
+  border-radius: 0px;
+}
+
+.newsletter p {
+  text-align:center; 
+  padding: 0px 20px;
+}
+
+.page_wrapper {
+  width: 80%; 
+  margin: 0 auto; 
+  padding: 30px 0px;
+}
+  
+  
+}
+/* End SH Update */
+.newsletter__wrapper {
+  padding-right: calc(4rem / var(--font-body-scale));
+  padding-left: calc(4rem / var(--font-body-scale));
+}
+
+@media screen and (min-width: 750px) {
+  .newsletter__wrapper {
+    padding-right: 9rem;
+    padding-left: 9rem;
+  }
+}
+
+.newsletter__wrapper > * {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.newsletter__wrapper > * + * {
+  margin-top: 2rem;
+}
+
+.newsletter__wrapper > * + .newsletter-form {
+  margin-top: 3rem;
+}
+
+.newsletter__subheading {
+  max-width: 70rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.newsletter__wrapper .newsletter-form__field-wrapper {
+  max-width: 36rem;
+}
+
+.newsletter-form__field-wrapper .newsletter-form__message {
+  margin-top: 1.5rem;
+}
+
+.newsletter__button {
+  margin-top: 3rem;
+  width: fit-content;
+}
+
+@media screen and (min-width: 750px) {
+  .newsletter__button {
+    flex-shrink: 0;
+    margin: 0 0 0 1rem;
+  }
+}

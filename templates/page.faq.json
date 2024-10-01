@@ -1,0 +1,128 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "fb31297d-d273-4b64-946c-4b1fb5a560de": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17855104680237__fb31297d-d273-4b64-946c-4b1fb5a560de-1676061793402811d7-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--17855104680237__fb31297d-d273-4b64-946c-4b1fb5a560de-1676061793402811d7-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--17855104680237__fb31297d-d273-4b64-946c-4b1fb5a560de-1676061793402811d7-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17855104680237__fb31297d-d273-4b64-946c-4b1fb5a560de-1676061793402811d7-0",
+        "template--17855104680237__fb31297d-d273-4b64-946c-4b1fb5a560de-1676061793402811d7-1",
+        "template--17855104680237__fb31297d-d273-4b64-946c-4b1fb5a560de-1676061793402811d7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DoGood-FallHoliday-22010.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "334c35d5-723c-48b8-8835-4afcb3632c60": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--17855104680237__334c35d5-723c-48b8-8835-4afcb3632c60-16753766885dbb8415-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "RETURN POLICY",
+            "icon": "check_mark",
+            "row_content": "<p>Need help with your online order? Email us anytime at debbi.osowski@dogood-adventures.com.<\/p><p>Returns should be initiated within 14 days of purchase. Please email debbi.osowski@dogood-adventures to initiate a return. Original shipping fees are non-refundable. Customer will be responsible for return shipping fees. Refund will be initiated within 24-48 hours of receipt of returned item.<\/p>",
+            "page": ""
+          }
+        },
+        "template--17855104680237__334c35d5-723c-48b8-8835-4afcb3632c60-16753766885dbb8415-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "SHIPPING POLICY",
+            "icon": "check_mark",
+            "row_content": "<p>We ship within 1-3 business days (excluding weekends). Shipping time is 3-5 days. You will have the option of shipping service at checkout (typically USPS or UPS).<\/p><p>During COVID-19 or during times of increased demand, there may be a slight delay in shipping times.<\/p><p><\/p>",
+            "page": ""
+          }
+        },
+        "template--17855104680237__334c35d5-723c-48b8-8835-4afcb3632c60-16753766885dbb8415-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WHY DOES MY CANDLE HAVE A \"WET SPOT\" ON IT?",
+            "icon": "check_mark",
+            "row_content": "<p>These spots are not wet spots or air bubbles, but the product of the wax not cooling evenly. The result is the wax pulling away from the side of the container in some spaces while continuing to adhere to the surface on the rest of the candle. The most important message is this: these spots will not affect how the candle burns.<\/p><p>We do our best to take precautions to minimize this happening. Our candles are all hand-poured with care and \"do good\" love. We strive for perfection but please reach out if you receive a candle that does not seem to be burning properly.<\/p>",
+            "page": ""
+          }
+        },
+        "template--17855104680237__334c35d5-723c-48b8-8835-4afcb3632c60-16753766885dbb8415-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WHY DOES MY CANDLE WICK HAVE A MUSHROOM ON IT?",
+            "icon": "check_mark",
+            "row_content": "<p>It is important to trim you candle wick to be approximately 1\/4\" tall before each time you burn it. This will also prevent the candle to appear as if it is smoking while burning.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17855104680237__334c35d5-723c-48b8-8835-4afcb3632c60-16753766885dbb8415-0",
+        "template--17855104680237__334c35d5-723c-48b8-8835-4afcb3632c60-16753766885dbb8415-1",
+        "template--17855104680237__334c35d5-723c-48b8-8835-4afcb3632c60-16753766885dbb8415-2",
+        "template--17855104680237__334c35d5-723c-48b8-8835-4afcb3632c60-16753766885dbb8415-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "fb31297d-d273-4b64-946c-4b1fb5a560de",
+    "334c35d5-723c-48b8-8835-4afcb3632c60"
+  ]
+}

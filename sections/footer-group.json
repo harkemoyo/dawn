@@ -1,0 +1,70 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-0": {
+          "type": "link_list",
+          "settings": {
+            "heading": "GET TO KNOW US",
+            "menu": "footer"
+          }
+        },
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "INFORMATION",
+            "menu": "company"
+          }
+        },
+        "ccf72102-47f3-4772-8a3a-d961c73e1c9e": {
+          "type": "link_list",
+          "settings": {
+            "heading": "MENU",
+            "menu": "main-menu"
+          }
+        },
+        "68bc46df-c02a-4dac-af45-ef9e0391b71d": {
+          "type": "text",
+          "settings": {
+            "heading": "HOURS OF OPERATION",
+            "subtext": "<ul><li>Tuesday:  10am - 4pm<\/li><li>Wednesday: 11am - 4pm<\/li><li>Thursday: 10am - 4pm<\/li><\/ul><p><em><strong>We are always available by appointment:<\/strong><\/em><\/p><ul><li>email: hello@dogood-adventures.com<\/li><li>text: 218-791-3932<\/li><\/ul>"
+          }
+        },
+        "4875ddeb-6524-440b-90b5-233da5eeea1b": {
+          "type": "text",
+          "settings": {
+            "heading": "LOCATION",
+            "subtext": "<p>5256 50th Avenue South, Suite A<\/p><p>Fargo, North Dakota 58104<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "footer-0",
+        "footer-1",
+        "ccf72102-47f3-4772-8a3a-d961c73e1c9e",
+        "68bc46df-c02a-4dac-af45-ef9e0391b71d",
+        "4875ddeb-6524-440b-90b5-233da5eeea1b"
+      ],
+      "settings": {
+        "color_scheme": "scheme-5",
+        "newsletter_enable": true,
+        "newsletter_heading": "Save 20% on your first purchase by subscribing!",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 44,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

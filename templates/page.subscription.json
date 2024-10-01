@@ -1,0 +1,413 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "4bdfba1c-076b-47b0-a1ab-c70f8c84ba68": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale",
+            "heading_size": "h1"
+          }
+        },
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-1": {
+          "type": "text",
+          "settings": {
+            "text": "We would love to work with you on your wholesale needs. \"do good adventures\" has several options including ordering directly through our website and\/or Faire.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-0",
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DoGood-FallHoliday-22008.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "77b977eb-fb4d-431d-81b2-7ab7bda03162": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17854083563821__77b977eb-fb4d-431d-81b2-7ab7bda03162-16753692610ae6d87c-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/laptopicon.png",
+            "title": "",
+            "text": "<p>Add subscription to cart, enter your info, and get ready to receive three thoughtfully curated candles in unique vessels to give your home that elevated look and scents to fit the season!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17854083563821__77b977eb-fb4d-431d-81b2-7ab7bda03162-16753692610ae6d87c-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_20Shot_202022-09-29_20at_202.33.26_20PM.png",
+            "title": "",
+            "text": "<p>Each box is curated for each season and is delivered to your door 4x a year!<\/p><p>Boxes ship in January, April, July, & October.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17854083563821__77b977eb-fb4d-431d-81b2-7ab7bda03162-16753692610ae6d87c-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/candleicon.png",
+            "title": "",
+            "text": "<p>Make the most of your membership by shopping our store year-round and receive 15% off all purchases with <em>do good<\/em>. Take advantage of our exclusive offers and early access to products!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17854083563821__77b977eb-fb4d-431d-81b2-7ab7bda03162-16753692610ae6d87c-0",
+        "template--17854083563821__77b977eb-fb4d-431d-81b2-7ab7bda03162-16753692610ae6d87c-1",
+        "template--17854083563821__77b977eb-fb4d-431d-81b2-7ab7bda03162-16753692610ae6d87c-2"
+      ],
+      "settings": {
+        "title": "How it works",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4f06cdb9-0c24-4ea1-a1d5-470be3040955": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17854083563821__4f06cdb9-0c24-4ea1-a1d5-470be3040955-1675369451f7b641e7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What's in the box?",
+            "heading_size": "h1"
+          }
+        },
+        "template--17854083563821__4f06cdb9-0c24-4ea1-a1d5-470be3040955-1675369451f7b641e7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Each box includes 3 full-size candles (4 ounces and bigger). One will be a scent in the<em>do good adventures<\/em>inventory while the other two will be new. We include 3 unique vessels for each box and a container of matches to light your candles. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17854083563821__4f06cdb9-0c24-4ea1-a1d5-470be3040955-1675369451f7b641e7-0",
+        "template--17854083563821__4f06cdb9-0c24-4ea1-a1d5-470be3040955-1675369451f7b641e7-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "9f640856-6d7c-4406-b08c-8b636ff93efa": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17854610604333__9f640856-6d7c-4406-b08c-8b636ff93efa-1675376476c61fe7bb-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/subscriptionbox1sq.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17854610604333__9f640856-6d7c-4406-b08c-8b636ff93efa-1675376476c61fe7bb-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6110_jpg_20_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17854610604333__9f640856-6d7c-4406-b08c-8b636ff93efa-1675376476c61fe7bb-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/subscriptionbox3f_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17854610604333__9f640856-6d7c-4406-b08c-8b636ff93efa-1675376476c61fe7bb-0",
+        "template--17854610604333__9f640856-6d7c-4406-b08c-8b636ff93efa-1675376476c61fe7bb-1",
+        "template--17854610604333__9f640856-6d7c-4406-b08c-8b636ff93efa-1675376476c61fe7bb-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 68,
+        "padding_bottom": 68
+      }
+    },
+    "1675376559328ebe4a": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "712b8f36-20ab-46ab-ae08-d8a028fd4ca2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17854610604333__712b8f36-20ab-46ab-ae08-d8a028fd4ca2-1675376476c61fe7bb-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/subscriptionboxQ11sq_750x750_c61abaf8-7a0b-4edf-b3a1-12b1f23c0f08.png",
+            "title": "Subscription Box - Quarterly",
+            "text": "<p>Quarterly shipments (January, April, July, October)<\/p><p>15% off future purchases with do good adventures (online or in-person)<\/p><p>Shipping included in price<\/p><p>3 full size candles<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17854610604333__712b8f36-20ab-46ab-ae08-d8a028fd4ca2-1675376476c61fe7bb-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/subscriptionboxQ11sq_750x750_772ceaa6-4662-453e-9ceb-4470b4093189.png",
+            "title": "Candle Gift Set",
+            "text": "<p>One time Gift Set Purchase<\/p><p>Shipping not included<\/p><p>3 full size candles<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17854610604333__712b8f36-20ab-46ab-ae08-d8a028fd4ca2-1675376476c61fe7bb-0",
+        "template--17854610604333__712b8f36-20ab-46ab-ae08-d8a028fd4ca2-1675376476c61fe7bb-1"
+      ],
+      "settings": {
+        "title": "Your Box Awaits!",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "f37c3bbd-f226-44b7-8a10-41352a989460": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17854610604333__f37c3bbd-f226-44b7-8a10-41352a989460-1675376657bddf3dab-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What makes our subscription box different?",
+            "heading_size": "h1"
+          }
+        },
+        "template--17854610604333__f37c3bbd-f226-44b7-8a10-41352a989460-1675376657bddf3dab-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>There is a lot of candle subscription boxes out there. <\/strong><\/p><p><strong>What is it that makes our box any different from the other subscriptions you can choose from? <\/strong><\/p><p>We ship our boxes quarterly but there are 3 vessels included in each box<\/p><p>Each box is different (including scent & vessels)<\/p><p>Our scents & vessels are selected to fit the season that they are shipped<\/p><p>Two of the scents are unique to our subscribers that other customers cannot buy<\/p><p>Each box includes matches so you never have to worry about being able to light your candles<\/p><p>Our subscription program doesn't just stop at the box. You also have access to exclusive offersand early access to product.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17854610604333__f37c3bbd-f226-44b7-8a10-41352a989460-1675376657bddf3dab-0",
+        "template--17854610604333__f37c3bbd-f226-44b7-8a10-41352a989460-1675376657bddf3dab-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "8eb3aaf4-90f6-4f72-880a-afde3925fd16": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17854610604333__8eb3aaf4-90f6-4f72-880a-afde3925fd16-1676061793402811d7-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--17854610604333__8eb3aaf4-90f6-4f72-880a-afde3925fd16-1676061793402811d7-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--17854610604333__8eb3aaf4-90f6-4f72-880a-afde3925fd16-1676061793402811d7-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17854610604333__8eb3aaf4-90f6-4f72-880a-afde3925fd16-1676061793402811d7-0",
+        "template--17854610604333__8eb3aaf4-90f6-4f72-880a-afde3925fd16-1676061793402811d7-1",
+        "template--17854610604333__8eb3aaf4-90f6-4f72-880a-afde3925fd16-1676061793402811d7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DoGood-FallHoliday-22011.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "8cabde70-9337-47fe-91a0-56b31502d364": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--17854610604333__8cabde70-9337-47fe-91a0-56b31502d364-16753766885dbb8415-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How often do the boxes ship?",
+            "icon": "check_mark",
+            "row_content": "<p>You can either receive 4 or 2 boxes in the year. They are shipped each quarter on the 5th of the month (January, April, July, and October).<\/p>",
+            "page": ""
+          }
+        },
+        "template--17854610604333__8cabde70-9337-47fe-91a0-56b31502d364-16753766885dbb8415-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I cancel at anytime?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, you can cancel at anytime by logging in to your account. You also have the option to skip a box, if it doesn't work for you that quarter.  If you have any problems, you can always email us at hello@dogood-adventures.com for assistance. <\/p>",
+            "page": ""
+          }
+        },
+        "template--17854610604333__8cabde70-9337-47fe-91a0-56b31502d364-16753766885dbb8415-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does the discount work on all products and with sale items?",
+            "icon": "check_mark",
+            "row_content": "<p>The discount is currently available on all products except for additional subscription boxes and classes at our studio.  <\/p>",
+            "page": ""
+          }
+        },
+        "template--17854610604333__8cabde70-9337-47fe-91a0-56b31502d364-16753766885dbb8415-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I pick my candles?",
+            "icon": "check_mark",
+            "row_content": "<p>Can I pick my candles?<\/p>",
+            "page": ""
+          }
+        },
+        "7eb181b5-88c5-4dab-be8d-eff820c15475": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I buy this as a gift?",
+            "icon": "check_mark",
+            "row_content": "<p>Absolutely!  In fact, we encourage this as a fantastic gifting item.  If you are purchasing this as a gift, we ask that you provide the shipping address for the recipient as well as that individual's email address (in the \"notes\" box at checkout\" so they can receive the 20% off discount code. <\/p>",
+            "page": ""
+          }
+        },
+        "c37469d1-8158-401b-b87a-0b43b25b9093": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does the discount code work?",
+            "icon": "check_mark",
+            "row_content": "<p>The code is automatically connected to your online account with <em>do good adventures<\/em>.  Once you log in, the price of products with the discount will show on each product page. <br\/><\/p><p>If you are purchasing the subscription as a gift, it is important that you let us know the recipient's email address so we can connect the discount code to their account.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17854610604333__8cabde70-9337-47fe-91a0-56b31502d364-16753766885dbb8415-0",
+        "template--17854610604333__8cabde70-9337-47fe-91a0-56b31502d364-16753766885dbb8415-1",
+        "template--17854610604333__8cabde70-9337-47fe-91a0-56b31502d364-16753766885dbb8415-2",
+        "template--17854610604333__8cabde70-9337-47fe-91a0-56b31502d364-16753766885dbb8415-3",
+        "7eb181b5-88c5-4dab-be8d-eff820c15475",
+        "c37469d1-8158-401b-b87a-0b43b25b9093"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 68,
+        "padding_bottom": 68
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4bdfba1c-076b-47b0-a1ab-c70f8c84ba68",
+    "77b977eb-fb4d-431d-81b2-7ab7bda03162",
+    "4f06cdb9-0c24-4ea1-a1d5-470be3040955",
+    "9f640856-6d7c-4406-b08c-8b636ff93efa",
+    "1675376559328ebe4a",
+    "712b8f36-20ab-46ab-ae08-d8a028fd4ca2",
+    "f37c3bbd-f226-44b7-8a10-41352a989460",
+    "8eb3aaf4-90f6-4f72-880a-afde3925fd16",
+    "8cabde70-9337-47fe-91a0-56b31502d364"
+  ]
+}

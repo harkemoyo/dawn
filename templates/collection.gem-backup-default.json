@@ -1,0 +1,78 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a722ab20-241b-470a-aaf1-2875b1bb1bf7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17841892229421__a722ab20-241b-470a-aaf1-2875b1bb1bf7-1675369080ef7413f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "elevate the every day.",
+            "heading_size": "h2"
+          }
+        },
+        "template--17841892229421__a722ab20-241b-470a-aaf1-2875b1bb1bf7-1675369080ef7413f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Candles are a classic item in our homes and a timeless gift option. Candles are more than pretty. They illicit moods, feelings, and memories which make them an essential part of our self-care. In addition, candles are a memorable way to express that you care, to show encouragement, and gift joy to the special people in your life.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17841892229421__a722ab20-241b-470a-aaf1-2875b1bb1bf7-1675369080ef7413f6-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "TAKE THE CANDLE SCENT QUIZ",
+            "button_link": "https:\/\/quiz.tryinteract.com\/#\/5f1b54ba7abad40014f589af"
+          }
+        }
+      },
+      "block_order": [
+        "template--17841892229421__a722ab20-241b-470a-aaf1-2875b1bb1bf7-1675369080ef7413f6-0",
+        "template--17841892229421__a722ab20-241b-470a-aaf1-2875b1bb1bf7-1675369080ef7413f6-1",
+        "template--17841892229421__a722ab20-241b-470a-aaf1-2875b1bb1bf7-1675369080ef7413f6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WebSized_Lifestyle_35.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "a722ab20-241b-470a-aaf1-2875b1bb1bf7"
+  ]
+}

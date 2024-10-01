@@ -1,0 +1,157 @@
+{
+  "sections": {
+    "4bdfba1c-076b-47b0-a1ab-c70f8c84ba68": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale",
+            "heading_size": "h1"
+          }
+        },
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-1": {
+          "type": "text",
+          "settings": {
+            "text": "We would love to work with you on your wholesale needs. \"do good adventures\" has several options including ordering directly through our website and\/or Faire.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-0",
+        "template--17854039195949__4bdfba1c-076b-47b0-a1ab-c70f8c84ba68-1675369225ba8f0f5c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DoGood-FallHoliday-22008.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "4f06cdb9-0c24-4ea1-a1d5-470be3040955": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17854083563821__4f06cdb9-0c24-4ea1-a1d5-470be3040955-1675369451f7b641e7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale",
+            "heading_size": "h1"
+          }
+        },
+        "template--17854083563821__4f06cdb9-0c24-4ea1-a1d5-470be3040955-1675369451f7b641e7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We're always honored to work with wholesale clients and we'd love to meet you! To join do good adventures, fill out the form below and someone will be with you within 2-3 business days.<\/p>"
+          }
+        },
+        "template--17854083563821__4f06cdb9-0c24-4ea1-a1d5-470be3040955-1675369451f7b641e7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LOGIN TO WHOLESALE",
+            "button_link": "https:\/\/dogood-adventures.com\/account\/login",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17854083563821__4f06cdb9-0c24-4ea1-a1d5-470be3040955-1675369451f7b641e7-0",
+        "template--17854083563821__4f06cdb9-0c24-4ea1-a1d5-470be3040955-1675369451f7b641e7-1",
+        "template--17854083563821__4f06cdb9-0c24-4ea1-a1d5-470be3040955-1675369451f7b641e7-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "77b977eb-fb4d-431d-81b2-7ab7bda03162": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17854083563821__77b977eb-fb4d-431d-81b2-7ab7bda03162-16753692610ae6d87c-0": {
+          "type": "column",
+          "settings": {
+            "title": "Minimum Buy-In",
+            "text": "<p>In an effort to help you, we offer an initial order of 6 items for all initial orders.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17854083563821__77b977eb-fb4d-431d-81b2-7ab7bda03162-16753692610ae6d87c-1": {
+          "type": "column",
+          "settings": {
+            "title": "Minimum Reorder Amount",
+            "text": "<p>To place a reorder, we only ask that you purchase 6 of our candles.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17854083563821__77b977eb-fb4d-431d-81b2-7ab7bda03162-16753692610ae6d87c-2": {
+          "type": "column",
+          "settings": {
+            "title": "Extra Perks",
+            "text": "<p>Gain access to our imagery for social media when you sign up!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17854083563821__77b977eb-fb4d-431d-81b2-7ab7bda03162-16753692610ae6d87c-0",
+        "template--17854083563821__77b977eb-fb4d-431d-81b2-7ab7bda03162-16753692610ae6d87c-1",
+        "template--17854083563821__77b977eb-fb4d-431d-81b2-7ab7bda03162-16753692610ae6d87c-2"
+      ],
+      "settings": {
+        "title": "FAQs About Wholesale",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dc869cde-d4a8-47e8-868a-7866d7a7fcbe": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "4bdfba1c-076b-47b0-a1ab-c70f8c84ba68",
+    "4f06cdb9-0c24-4ea1-a1d5-470be3040955",
+    "main",
+    "77b977eb-fb4d-431d-81b2-7ab7bda03162",
+    "dc869cde-d4a8-47e8-868a-7866d7a7fcbe"
+  ]
+}

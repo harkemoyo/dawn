@@ -1,0 +1,200 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "a993f572-e73e-4bab-8783-d3d64f366fa2": {
+      "type": "image-with-text",
+      "blocks": {
+        "0c78ec0b-35cd-41ec-a1d4-33e39d76094f": {
+          "type": "caption",
+          "settings": {
+            "caption": "INTRODUCING DEBBI",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--17842353799469__a993f572-e73e-4bab-8783-d3d64f366fa2-16752929458ef36560-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--17842353799469__a993f572-e73e-4bab-8783-d3d64f366fa2-16752929458ef36560-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Inspiring others to think good, feel good, and do good. Do good adventures has a dream of being a creative who shares work that motivates others to think big and live their dreams. Even if that dream, for today, is to fold the laundry and put it away....<\/p><p>Our founder, Debbi, is a former high school counselor. As a wife, mother of three girls, and a counselor, she has spent countless hours working with children, teenagers and their parents to help them live the most rewarding, positive and successful lives. Today she thoughtfully curates soy candles to elevate the every day. Her mission is to create a brand and products that embody a positive outlook on life and inspire others to live their best life.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "0c78ec0b-35cd-41ec-a1d4-33e39d76094f",
+        "template--17842353799469__a993f572-e73e-4bab-8783-d3d64f366fa2-16752929458ef36560-0",
+        "template--17842353799469__a993f572-e73e-4bab-8783-d3d64f366fa2-16752929458ef36560-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Image_MSchleifPhotography-54crop.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dbaeac47-6ee8-4800-95c2-d0ecce884e07": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17842353799469__dbaeac47-6ee8-4800-95c2-d0ecce884e07-1675293000edc82e16-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>But, Debbi believes that each of us has the power to create our own attitude about a situation. We all have the ability to think good thoughts and make choices to help our bodies feel good. In doing so, it is her hope that people can do good. <\/p><p>Sometimes doing good is in the form of helping others. And sometimes it is in the form of making decisions that are good for ourselves. Either way, we all have the ability to think good, feel good and do good. When not working on her dream (do good adventures) you can find Debbi baking, reading, playing with her dogs (Fenway and Tessie - yes, she's also a Red Sox fan!), and working out. She also loves photography - especially of her products and baked goods.<\/p><p>She and her husband of 26 years, Brian, love to travel and look forward to doing more so now that they are empty-nesters.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17842353799469__dbaeac47-6ee8-4800-95c2-d0ecce884e07-1675293000edc82e16-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "72f3c448-14dc-4ace-ad59-5a72f8c1347a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17842353799469__72f3c448-14dc-4ace-ad59-5a72f8c1347a-1675293024861136d2-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Osowski2022027.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17842353799469__72f3c448-14dc-4ace-ad59-5a72f8c1347a-1675293024861136d2-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Osowski2022025.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17842353799469__72f3c448-14dc-4ace-ad59-5a72f8c1347a-1675293024861136d2-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Osowski2022006.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17842353799469__72f3c448-14dc-4ace-ad59-5a72f8c1347a-1675293024861136d2-0",
+        "template--17842353799469__72f3c448-14dc-4ace-ad59-5a72f8c1347a-1675293024861136d2-1",
+        "template--17842353799469__72f3c448-14dc-4ace-ad59-5a72f8c1347a-1675293024861136d2-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "140be2ca-fbdb-48ad-992d-e2d34fa3a217": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17842353799469__140be2ca-fbdb-48ad-992d-e2d34fa3a217-1675293000edc82e16-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Few FAQs about Debbi",
+            "heading_size": "h1"
+          }
+        },
+        "template--17842353799469__140be2ca-fbdb-48ad-992d-e2d34fa3a217-1675293000edc82e16-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>IS DO GOOD YOUR ONLY JOB?<\/p><p>I started do good two years ago while still working full time as a high school counselor. I resigned from that position in December 2019 before COVID was even part of our vocabulary. I finished the school year and have been focusing full time on do good adventures ever since!<\/p><p>WHERE DO YOU LIVE?<\/p><p>I have lived in Fargo, North Dakota for the past 10 years but have lived in North Dakota since 1979. My husband and I have moved around in North Dakota (Fargo, Bismarck, and Grand Forks) but this is the longest we have been in one city.<\/p><p>HOW DID YOU START MAKING CANDLES?<\/p><p>I really wanted candles as favors for my daughter’s wedding in August 2018. After lots of research, I made them myself. Every place setting at the reception had a different candle. The guests loved smelling and sharing the scents. They were a conversation piece all night long (and there were not left at the end of the evening!). I loved making the candles and continued to try new scents and sizes as fall approached. I initially gave them away and then opened an Etsy shop and applied to sell at local events. Things evolved from there!<\/p><p>WHAT DOES YOUR HUSBAND DO?<\/p><p>Brian is a registered municipal bond advisor and has owned his own company, AMKO Advisors, since 2008. He is my role model in entrepreneurship and encourages me daily to keep moving forward and take chances!<\/p><p>WHO ELSE IS IN YOUR FAMILY?<\/p><p>Brian and I have 3 girls (Abby, Meg and Kate). Abby married her husband, Levi, in August 2018, and they welcomed our first grandchild, Jeffrey in October 2022.  Meg is living in Minneapolis and working for Worldwide Express along with coaching at Orange Theory Fitness.  Kate ia s junior at the University of North Dakota majoring in Kinesiology. <\/p><p>The house is quiet except for our two dogs – Fenway and Tessie. Fenway is a big, lovable 4 year old golden retriever. Tessie is her younger sister and our COVID puppy. She’s a chocolate lab with endless energy and keeps us on our toes.<\/p><p>DO YOU HAVE OTHER HOBBIES?<\/p><p>I love to workout (Orange Theory Fitness is my jam) and bake. In addition to making candles, I would love to write a cookbook of family recipes and use my love for food photography in the process. My dream vacation includes a beach, a book, and an endless supply of white wine.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17842353799469__140be2ca-fbdb-48ad-992d-e2d34fa3a217-1675293000edc82e16-0",
+        "template--17842353799469__140be2ca-fbdb-48ad-992d-e2d34fa3a217-1675293000edc82e16-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6f5b7dea-32fb-44af-baac-48a530f8d504": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Debbi's Favorites",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "debbis-favorites",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a993f572-e73e-4bab-8783-d3d64f366fa2",
+    "dbaeac47-6ee8-4800-95c2-d0ecce884e07",
+    "72f3c448-14dc-4ace-ad59-5a72f8c1347a",
+    "140be2ca-fbdb-48ad-992d-e2d34fa3a217",
+    "6f5b7dea-32fb-44af-baac-48a530f8d504"
+  ]
+}

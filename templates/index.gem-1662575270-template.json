@@ -1,0 +1,404 @@
+{
+  "sections": {
+    "f0b41bba-2e54-4145-ac4d-f7092a13ed5d": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17841892426029__f0b41bba-2e54-4145-ac4d-f7092a13ed5d-1675366498c1eca806-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Copy_of_the_classics_never_1768_x_900_px_1.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17841892426029__f0b41bba-2e54-4145-ac4d-f7092a13ed5d-1675366498c1eca806-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "d51e9983-bec2-4276-8bec-c9739060dd62": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17841892426029__d51e9983-bec2-4276-8bec-c9739060dd62-16798498320c87cf1f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "521  Handmade Pillow & do good Candle Bundle",
+            "heading_size": "h1"
+          }
+        },
+        "template--17841892426029__d51e9983-bec2-4276-8bec-c9739060dd62-16798498320c87cf1f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP BUNDLE HERE",
+            "button_link": "shopify:\/\/products\/521-handmade-pillow-candle-bundle"
+          }
+        }
+      },
+      "block_order": [
+        "template--17841892426029__d51e9983-bec2-4276-8bec-c9739060dd62-16798498320c87cf1f-0",
+        "template--17841892426029__d51e9983-bec2-4276-8bec-c9739060dd62-16798498320c87cf1f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Beige_Minimalist_Mood_Photo_Collage_Instagram_Post_Square.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9d205699-4e43-424e-8d3d-fbfd2f88c3b9": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17841892426029__9d205699-4e43-424e-8d3d-fbfd2f88c3b9-16753661716265e98b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "gift ideas",
+            "heading_size": "h0"
+          }
+        },
+        "template--17841892426029__9d205699-4e43-424e-8d3d-fbfd2f88c3b9-16753661716265e98b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "shop now",
+            "button_link": "shopify:\/\/collections\/gift-giving"
+          }
+        }
+      },
+      "block_order": [
+        "template--17841892426029__9d205699-4e43-424e-8d3d-fbfd2f88c3b9-16753661716265e98b-0",
+        "template--17841892426029__9d205699-4e43-424e-8d3d-fbfd2f88c3b9-16753661716265e98b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_Do_Good_Collections_20.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "d57b760c-2bc2-43ed-ac37-48a63a90ca5b": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "customer-favorites",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "506fdc3f-9c96-4a4a-a318-0edb1a68a68b": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "3e10cfab-3cb6-471c-8a56-c04da95bf348": {
+      "type": "collection-list",
+      "blocks": {
+        "9aad9182-63e3-43aa-863e-06aee78c1407": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "limited-edition"
+          }
+        },
+        "template--17841892426029__3e10cfab-3cb6-471c-8a56-c04da95bf348-1676669024f61bc790-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "best-selling-collection"
+          }
+        },
+        "template--17841892426029__3e10cfab-3cb6-471c-8a56-c04da95bf348-1676669024f61bc790-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "experience-collection"
+          }
+        },
+        "template--17841892426029__3e10cfab-3cb6-471c-8a56-c04da95bf348-1676669024f61bc790-2": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "gift-giving"
+          }
+        },
+        "3c7591d0-d54f-47dc-a32d-f17ced3d82ef": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "do-good-collection"
+          }
+        }
+      },
+      "block_order": [
+        "9aad9182-63e3-43aa-863e-06aee78c1407",
+        "template--17841892426029__3e10cfab-3cb6-471c-8a56-c04da95bf348-1676669024f61bc790-1",
+        "template--17841892426029__3e10cfab-3cb6-471c-8a56-c04da95bf348-1676669024f61bc790-0",
+        "template--17841892426029__3e10cfab-3cb6-471c-8a56-c04da95bf348-1676669024f61bc790-2",
+        "3c7591d0-d54f-47dc-a32d-f17ced3d82ef"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "06d70733-6068-481e-9a8a-7bbf2b60b615": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17841892426029__06d70733-6068-481e-9a8a-7bbf2b60b615-16753661716265e98b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Did you know?",
+            "heading_size": "h1"
+          }
+        },
+        "f4be2735-f6e2-41f7-b4ae-d57a60d867b0": {
+          "type": "caption",
+          "settings": {
+            "caption": "PORTION OF PROFITS GO TO \"DOING GOOD\"",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--17841892426029__06d70733-6068-481e-9a8a-7bbf2b60b615-16753661716265e98b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>do good aspires to be more than a candle company. We want to make a difference. Our motto is that we are inspired to help others think good, feel good and do good. As a former counselor, this is a large part of our values and our \"why\". do good adventures donates a portion of profits to organizations that focus on mental health, suicide prevention, and building self-esteem in children and teens.<\/p><p><\/p><p><strong>Recent Donations: <\/strong><\/p><ul><li>BIO Girls<\/li><li>Children's Advocacy Center<\/li><li>Fargo Vet Center<\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "template--17841892426029__06d70733-6068-481e-9a8a-7bbf2b60b615-16753661716265e98b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "https:\/\/dogood-adventures.com\/pages\/about"
+          }
+        }
+      },
+      "block_order": [
+        "template--17841892426029__06d70733-6068-481e-9a8a-7bbf2b60b615-16753661716265e98b-0",
+        "f4be2735-f6e2-41f7-b4ae-d57a60d867b0",
+        "template--17841892426029__06d70733-6068-481e-9a8a-7bbf2b60b615-16753661716265e98b-1",
+        "template--17841892426029__06d70733-6068-481e-9a8a-7bbf2b60b615-16753661716265e98b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Lifestyle_DoGood_028.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "a9a27eb6-b845-4d33-b5c5-125e864d28a3": {
+      "type": "newsletter",
+      "blocks": {
+        "template--17841892426029__a9a27eb6-b845-4d33-b5c5-125e864d28a3-1675366273de91f196-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We'd love to connect!",
+            "heading_size": "h1"
+          }
+        },
+        "template--17841892426029__a9a27eb6-b845-4d33-b5c5-125e864d28a3-1675366273de91f196-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>I would love to keep you up to date about products, events and promotions. I'd also love to share motivations, inspirations and celebrations. Sign up for our email list today so you don't miss out!<\/p>"
+          }
+        },
+        "template--17841892426029__a9a27eb6-b845-4d33-b5c5-125e864d28a3-1675366273de91f196-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17841892426029__a9a27eb6-b845-4d33-b5c5-125e864d28a3-1675366273de91f196-0",
+        "template--17841892426029__a9a27eb6-b845-4d33-b5c5-125e864d28a3-1675366273de91f196-1",
+        "template--17841892426029__a9a27eb6-b845-4d33-b5c5-125e864d28a3-1675366273de91f196-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 24
+      }
+    },
+    "276a5458-e856-4367-a36d-777d89653d49": {
+      "type": "image-with-text",
+      "blocks": {
+        "75b0b8d9-0a43-42bb-81d2-660aa8d01520": {
+          "type": "caption",
+          "settings": {
+            "caption": "INTRODUCING DEBBI",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--17841892426029__276a5458-e856-4367-a36d-777d89653d49-16752915753f976a21-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--17841892426029__276a5458-e856-4367-a36d-777d89653d49-16752915753f976a21-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Do good adventures began after Debbi made candles as favors for her daughter's wedding in 2018. She loved seeing the joy on the guests' faces as they smelled and shared their candles during the reception. She continued to make candles to sell and decided on the name \"do good\" after 20+ years as a mother and counselor focusing on helping others do the right thing and do good. The mission of \"do good\" is to focus on inspiring others to think good, feel good and do good.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17841892426029__276a5458-e856-4367-a36d-777d89653d49-16752915753f976a21-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "shopify:\/\/pages\/about"
+          }
+        }
+      },
+      "block_order": [
+        "75b0b8d9-0a43-42bb-81d2-660aa8d01520",
+        "template--17841892426029__276a5458-e856-4367-a36d-777d89653d49-16752915753f976a21-0",
+        "template--17841892426029__276a5458-e856-4367-a36d-777d89653d49-16752915753f976a21-1",
+        "template--17841892426029__276a5458-e856-4367-a36d-777d89653d49-16752915753f976a21-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/blog.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 20
+      }
+    },
+    "48d3d28d-8bb2-4cc5-9123-5c80546b9e61": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17841892426029__48d3d28d-8bb2-4cc5-9123-5c80546b9e61-1675366393ae74cc4b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "@DOGOOD_ADVENTURES",
+            "button_link": "https:\/\/www.instagram.com\/dogood_adventures\/",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17841892426029__48d3d28d-8bb2-4cc5-9123-5c80546b9e61-1675366393ae74cc4b-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "1676714627e0d515e0": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "8670bcac-d1b3-45a7-9bbe-52636911e024": {
+      "type": "page",
+      "settings": {
+        "page": "do-good-adventures-candle-collective-2023",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "f0b41bba-2e54-4145-ac4d-f7092a13ed5d",
+    "d51e9983-bec2-4276-8bec-c9739060dd62",
+    "9d205699-4e43-424e-8d3d-fbfd2f88c3b9",
+    "d57b760c-2bc2-43ed-ac37-48a63a90ca5b",
+    "506fdc3f-9c96-4a4a-a318-0edb1a68a68b",
+    "3e10cfab-3cb6-471c-8a56-c04da95bf348",
+    "06d70733-6068-481e-9a8a-7bbf2b60b615",
+    "a9a27eb6-b845-4d33-b5c5-125e864d28a3",
+    "276a5458-e856-4367-a36d-777d89653d49",
+    "48d3d28d-8bb2-4cc5-9123-5c80546b9e61",
+    "1676714627e0d515e0",
+    "8670bcac-d1b3-45a7-9bbe-52636911e024"
+  ]
+}

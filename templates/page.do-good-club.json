@@ -1,0 +1,301 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "fb31297d-d273-4b64-946c-4b1fb5a560de": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17855104680237__fb31297d-d273-4b64-946c-4b1fb5a560de-1676061793402811d7-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--17855104680237__fb31297d-d273-4b64-946c-4b1fb5a560de-1676061793402811d7-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Join Now",
+            "button_link_1": "https:\/\/dogood-adventures.com\/account\/register",
+            "button_style_secondary_1": false,
+            "button_label_2": "Login",
+            "button_link_2": "shopify:\/\/pages\/login",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17855104680237__fb31297d-d273-4b64-946c-4b1fb5a560de-1676061793402811d7-1",
+        "template--17855104680237__fb31297d-d273-4b64-946c-4b1fb5a560de-1676061793402811d7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rewards_Program_Header.png",
+        "image_overlay_opacity": 10,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "f7a4c63d-af72-4ce8-a08f-a5bc4eb0bab2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19210212213037__f7a4c63d-af72-4ce8-a08f-a5bc4eb0bab2-168591337028959895-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_dbca03ac-c251-4eb4-8399-2f2492e82dbc.png",
+            "title": "SIGN UP",
+            "text": "<p>Create an account and get 10 points.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19210212213037__f7a4c63d-af72-4ce8-a08f-a5bc4eb0bab2-168591337028959895-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_5c9ce993-ae1c-4537-b8af-464bd5c4e7e9.png",
+            "title": "EARN POINTS",
+            "text": "<p>Earn points every time you shop.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19210212213037__f7a4c63d-af72-4ce8-a08f-a5bc4eb0bab2-168591337028959895-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_8617cf8d-a5a0-4eec-bb2a-7989f19c0ce4.png",
+            "title": "REDEEM POINTS",
+            "text": "<p>Redeem points for exclusive discounts.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19210212213037__f7a4c63d-af72-4ce8-a08f-a5bc4eb0bab2-168591337028959895-0",
+        "template--19210212213037__f7a4c63d-af72-4ce8-a08f-a5bc4eb0bab2-168591337028959895-1",
+        "template--19210212213037__f7a4c63d-af72-4ce8-a08f-a5bc4eb0bab2-168591337028959895-2"
+      ],
+      "settings": {
+        "title": "How it works",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bf11d196-4a8e-44c2-b33e-ddb38175071b": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19210212213037__bf11d196-4a8e-44c2-b33e-ddb38175071b-168591337028959895-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_b2b6d669-efa7-4770-8421-866a491a1ca9.png",
+            "title": "1 Point Per Dollar",
+            "text": "<h4>Per $1 spent<\/h4>",
+            "link_label": "Sign up",
+            "link": "https:\/\/dogood-adventures.com\/account\/register"
+          }
+        },
+        "template--19210212213037__bf11d196-4a8e-44c2-b33e-ddb38175071b-168591337028959895-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "title": "10 Points",
+            "text": "<h4>Create an account<\/h4>",
+            "link_label": "Sign up",
+            "link": "https:\/\/dogood-adventures.com\/account\/register"
+          }
+        },
+        "template--19210212213037__bf11d196-4a8e-44c2-b33e-ddb38175071b-168591337028959895-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "title": "50 Points",
+            "text": "<h4>Birthday Reward<\/h4>",
+            "link_label": "Sign up",
+            "link": "https:\/\/dogood-adventures.com\/account\/register"
+          }
+        },
+        "ba56700a-31ca-46dd-a719-9956f22497c0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7.png",
+            "title": "15 Points",
+            "text": "<h4>Leave a Review<\/h4>",
+            "link_label": "Sign up",
+            "link": "https:\/\/dogood-adventures.com\/account\/register"
+          }
+        },
+        "3d18aa02-bbb2-45a7-946c-ba8ba567ac91": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rewards_program_icons_2.png",
+            "title": "5 Points",
+            "text": "<h4>Like on Facebook<\/h4>",
+            "link_label": "Sign up",
+            "link": "https:\/\/dogood-adventures.com\/account\/register"
+          }
+        },
+        "23ad1ea7-0d55-4ac5-9be2-8acb9f3651f8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9.png",
+            "title": "5 Points",
+            "text": "<h4>Follow us on Instagram<\/h4>",
+            "link_label": "Sign up",
+            "link": "https:\/\/dogood-adventures.com\/account\/register"
+          }
+        }
+      },
+      "block_order": [
+        "template--19210212213037__bf11d196-4a8e-44c2-b33e-ddb38175071b-168591337028959895-0",
+        "template--19210212213037__bf11d196-4a8e-44c2-b33e-ddb38175071b-168591337028959895-1",
+        "template--19210212213037__bf11d196-4a8e-44c2-b33e-ddb38175071b-168591337028959895-2",
+        "ba56700a-31ca-46dd-a719-9956f22497c0",
+        "3d18aa02-bbb2-45a7-946c-ba8ba567ac91",
+        "23ad1ea7-0d55-4ac5-9be2-8acb9f3651f8"
+      ],
+      "settings": {
+        "title": "Ways to earn points",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bf17af52-b578-447e-b847-3ccd14734d18": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19210212213037__bf17af52-b578-447e-b847-3ccd14734d18-1685916055a50a0ec4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How to use your points",
+            "heading_size": "h1"
+          }
+        },
+        "template--19210212213037__bf17af52-b578-447e-b847-3ccd14734d18-1685916055a50a0ec4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Simply apply your points for a discount at checkout. It's that easy!<\/p><h3>50 points = $5<\/h3>"
+          }
+        },
+        "template--19210212213037__bf17af52-b578-447e-b847-3ccd14734d18-1685916055a50a0ec4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19210212213037__bf17af52-b578-447e-b847-3ccd14734d18-1685916055a50a0ec4-0",
+        "template--19210212213037__bf17af52-b578-447e-b847-3ccd14734d18-1685916055a50a0ec4-1",
+        "template--19210212213037__bf17af52-b578-447e-b847-3ccd14734d18-1685916055a50a0ec4-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c0bfc9c6-7943-4c33-9099-fe52c3544fe8": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19210212213037__c0bfc9c6-7943-4c33-9099-fe52c3544fe8-1685917082c5fa76c2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "GIVE $5, GET $5",
+            "heading_size": "h2"
+          }
+        },
+        "d713ed31-7cc6-4b09-9abc-e639ef8818c6": {
+          "type": "text",
+          "settings": {
+            "text": "Give your friends a reward and claim your own when they make a purchase.",
+            "text_style": "body"
+          }
+        },
+        "b000abde-5e34-42fd-bd04-9fe0ed4f5419": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Refer a Friend",
+            "button_link_1": "#smile-home",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19210212213037__c0bfc9c6-7943-4c33-9099-fe52c3544fe8-1685917082c5fa76c2-0",
+        "d713ed31-7cc6-4b09-9abc-e639ef8818c6",
+        "b000abde-5e34-42fd-bd04-9fe0ed4f5419"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_1076.heic",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1685919163b4732540": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "fb31297d-d273-4b64-946c-4b1fb5a560de",
+    "f7a4c63d-af72-4ce8-a08f-a5bc4eb0bab2",
+    "bf11d196-4a8e-44c2-b33e-ddb38175071b",
+    "bf17af52-b578-447e-b847-3ccd14734d18",
+    "c0bfc9c6-7943-4c33-9099-fe52c3544fe8",
+    "1685919163b4732540"
+  ]
+}
